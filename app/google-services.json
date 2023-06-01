@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708504828333",
+    "project_id": "recife-fitness",
+    "storage_bucket": "recife-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708504828333:android:baec083d679eaa92c1c924",
+        "android_client_info": {
+          "package_name": "com.example.empregaeu4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIdtVhhbPwSc_dSIHK3tJgmEUH_FTXpe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
